@@ -1,0 +1,17 @@
+# work-List
+- ## Make a web-calculator
+- ## Make a web-version of pac-man
+- ## 3D dice roller
+- ## fpv Drone 
+- ## Rc plane
+- ## Portfolio web-page
+- ## Reading books
+- ## Typing speed
+- ## Vision
+- ## Reading article
+- ## Reading about api
+- ## Communication
+- ## Take feedback
+- ## Advent of code(2015)
+- ## learning financial freedom
+- ## build some passive income source
